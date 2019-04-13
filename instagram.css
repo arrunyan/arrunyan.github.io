@@ -1,0 +1,127 @@
+.button{
+  width: 57.6px;
+  height: 35px;
+background-color: #5e9af9;
+position: relative;
+left:1200px;
+top: 10px;
+ border: 2px #808080 solid;
+ padding: 5px;
+
+}
+.header{
+  width: 100;
+   height: 77px;
+
+}
+
+.main{
+  margin: auto;
+  width: 935px;
+  background-color: #e3e3e5
+
+}
+
+.user{
+  display: flex
+  height: 150px;
+  width: 935px;
+
+}
+.mainphoto{
+  height: 150px;
+  width: 291px;
+
+
+}
+.description{
+  height: 150px;
+  width: 644;
+
+
+}
+.photos{
+  width: 935px;
+  background-color: #dee1e5
+}
+.line{
+  width: 935px;
+  background-color: #dee1e5;
+  display: flex;
+  justify-content: space-between;
+}
+.picture{
+  width:293px;
+  height: 293px;
+  background-color: #d4d8dd;
+  margin: 10px;
+}
+  .circular--square {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  position: relative;
+left:60px;
+
+}
+.background{
+  width: 708px;
+  height: 2408;
+  color:#e3e3e5
+}
+.text{
+  font-size: 30px;
+  font-style: normal;
+font-family: 'Megrim', cursive;
+  position: relative;
+  left: 150px;
+  top: -110px
+}
+.posts{
+  font-style: normal;
+font-family: 'Krub', sans-serif;
+  font-size: 20px;
+  left: 350px;
+  top: -100px;
+  position: relative;
+
+}
+.follows{
+  font-style: normal;
+font-family: 'Krub', sans-serif;
+  font-size: 20px;
+  left: 650px;
+  top: -100px;
+  position: relative;
+
+}
+.followers{
+  font-style: normal;
+font-family: 'Krub', sans-serif;
+  font-size: 20px;
+  left: 400px;
+  top: -100px;
+  position: relative;
+
+}
+.numbers{
+font-size: 22px;
+font-family: 'Fjalla One', sans-serif;
+  left: 325px;
+  top: -148px;
+  position: relative;
+
+}
+.followsnumber{
+font-size: 22px;
+font-family: 'Fjalla One', sans-serif;
+  left:755px;
+  top: -199px;
+  position: relative
+}
+.followersnumber{
+font-size: 22px;
+font-family: 'Fjalla One', sans-serif;
+  left:450px;
+  top: -250px;
+  position: relative
