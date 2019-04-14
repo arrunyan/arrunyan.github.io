@@ -10,7 +10,7 @@ top: 10px;
 
 }
 .header{
-  width: 100;
+  width: 100%;
    height: 77px;
 
 }
@@ -43,7 +43,7 @@ top: 10px;
 }
 .photos{
   width: 935px;
-  background-color: #dee1e5
+  background-color: #dee1e5;
 }
 .line{
   width: 935px;
@@ -68,7 +68,7 @@ left:60px;
 .background{
   width: 708px;
   height: 2408;
-  color:#e3e3e5
+  color:#e3e3e5;
 }
 .text{
   font-size: 30px;
@@ -76,7 +76,7 @@ left:60px;
 font-family: 'Megrim', cursive;
   position: relative;
   left: 150px;
-  top: -110px
+  top: -110px;
 }
 .posts{
   font-style: normal;
