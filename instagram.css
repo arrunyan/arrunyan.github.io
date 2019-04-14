@@ -118,20 +118,19 @@ font-size: 22px;
 font-family: 'Fjalla One', sans-serif;
   left:755px;
   top: -199px;
-  position: relative
+  position: relative;
 }
 .followersnumber{
 font-size: 22px;
 font-family: 'Fjalla One', sans-serif;
   left:450px;
   top: -250px;
-  position: relative
+  position: relative;
 
 }
 .photoes{
   height: 100%;
-  width: 100%
-
+  width: 100%;
 
 }
 .textdescription{
@@ -139,5 +138,5 @@ font-family: 'Fjalla One', sans-serif;
   font-style: normal;
 font-family: 'Megrim', cursive;
 left: 200px;
-top: -500px
+top: -500px;
 }
