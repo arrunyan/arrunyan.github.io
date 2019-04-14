@@ -39,6 +39,7 @@ top: 10px;
   width: 644;
 
 
+
 }
 .photos{
   width: 935px;
@@ -125,3 +126,18 @@ font-family: 'Fjalla One', sans-serif;
   left:450px;
   top: -250px;
   position: relative
+
+}
+.photoes{
+  height: 100%;
+  width: 100%
+
+
+}
+.textdescription{
+  font-size: 30px;
+  font-style: normal;
+font-family: 'Megrim', cursive;
+left: 200px;
+top: -500px
+}
